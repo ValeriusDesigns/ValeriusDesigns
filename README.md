@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ValeriusDesigns
+- 👋 Hi, I’m Valerius - @ValeriusDesigns
 - 👀 I’m interested in programming, specifically SwiftUI / Mac & iOS development, Android, PHP, and JavaScript as hobbies.
 - 🌱 I’m currently learning new programming techniques and frameworks to enhance my skills.
 - 💞️ I’m looking to collaborate on exciting projects in mobile apps and web development.
